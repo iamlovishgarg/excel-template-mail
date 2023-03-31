@@ -1,0 +1,9 @@
+Hello {names},
+
+It is to inform you that, you have gotten marks as follows:
+AI: {ai_marks}
+ML: {ml_marks}
+Python: {python_marks}
+
+Regards,
+Teacher
